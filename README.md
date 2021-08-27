@@ -1,6 +1,8 @@
-# COVID-19 data analysis
+# COVID-19 data analysis notebook
 
 Bachelor thesis project made at the University of Zagreb, Faculty of organization and informatics.
+
+[Link to the bachelor thesis on the official university repository.](https://repozitorij.foi.unizg.hr/islandora/object/foi:6363)
 
 **Main goal:**
 Main goal of this thesis was to provide methodology for data analysis - from data mining all the way to making data driven decisions which includes all phases like data cleaning, modelling, exploring patterns, analysing and visualising. 
